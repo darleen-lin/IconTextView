@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IconTextView</string>
+    <string name="mobile">&#xe78c;</string>
+    <string name="password">&#xe60e;</string>
+</resources>
